@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Chaoooooooooooo
+=======
+holaaaaaaaaaaaaaa
+>>>>>>> fix/v1.0.0
